@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 python-telegram-bot==20.0
+=======
+python-telegram-bot==20.0
+>>>>>>> 848983217019b730571dbcdb178281c734440cfd
