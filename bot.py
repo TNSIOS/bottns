@@ -6,7 +6,7 @@ from datetime import timedelta
 
 # Token của bạn từ BotFather
 TOKEN = '6349202722:AAGfvut3DDLnPNKleejCutPUWYe-QSMf-ZY'
-CHANNEL_ID = '@iOSFreeHackVN'  # Thay đổi bằng ID hoặc username của kênh
+CHANNEL_ID = '-1002208286697'  # Thay đổi bằng ID hoặc username của kênh
 
 # Cấu hình logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
